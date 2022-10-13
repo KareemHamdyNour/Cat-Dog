@@ -1,2 +1,2 @@
 # Cat-Dog
-Classify Photos of Dogs and Cats (with 94% accuracy)
+Classify Photos of Dogs and Cats (with 99% accuracy)
